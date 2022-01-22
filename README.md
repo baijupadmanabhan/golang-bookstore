@@ -1,0 +1,2 @@
+# golang-bookstore
+Bookstore application
